@@ -15,9 +15,9 @@ public class Minesweeper {
         int row, col;
 
 //        board.printMap(board.getMineMap());
-//        System.out.println("================");
 
         board.printMap(board.getVisibleMap());
+        System.out.println("================");
         while (true) {
             System.out.println("Enter row number: ");
             row = scanner.nextInt();
