@@ -37,5 +37,5 @@ To run this console game, you must have Java installed on your system.
 - Java Version: Java 8 or higher
 
 - JVM (Java Virtual Machine) is required to execute the compiled .class or .jar files. </br>
-  If you don't have Java installed, you can download it from
+  If you don't have Java installed, you can download it from </br>
   https://www.oracle.com/java/technologies/javase-downloads.html
